@@ -1,0 +1,12 @@
+.mat-card {
+  max-width: 100%;
+  margin: 2rem auto;
+  .mat-card-actions {
+    padding-top: 0;
+    .mat-button {
+      margin: 0 auto;
+      display: block;
+    }
+  }
+}
+
